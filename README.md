@@ -46,6 +46,7 @@ Where:
 - `0 = Normal`
 - `1 = Fraud`
 
+You can get Dataset from Kaggle Website.
 ---
 
 # ⚙️ Workflow
