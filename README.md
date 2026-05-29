@@ -86,10 +86,9 @@ Evaluated using:
 
 Model performance:
 
-- Training Accuracy: XX%
-- Testing Accuracy: XX%
+- Training Accuracy: 99%
+- Testing Accuracy: 94%
 
-> Replace XX with your output from notebook.
 
 ---
 
@@ -121,15 +120,6 @@ jupyter notebook
 
 ---
 
-# 📷 Project Preview
-
-You can add screenshots here.
-
-Example:
-
-![Project Preview](images/fraud-vs-normal.png)
-
----
 
 # 📚 Learning Outcomes
 
@@ -146,8 +136,8 @@ Through this project I learned:
 
 # 👨‍💻 Author
 
-Muhammad Ahsan
+Ahsan Aftab
 
-Machine Learning Student | AI Enthusiast
+Computer Science Student | AI/ML Enthusiast
 
 GitHub: https://github.com/YOUR_USERNAME
