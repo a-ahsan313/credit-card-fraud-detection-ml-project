@@ -139,5 +139,3 @@ Through this project I learned:
 Ahsan Aftab
 
 Computer Science Student | AI/ML Enthusiast
-
-GitHub: https://github.com/YOUR_USERNAME
