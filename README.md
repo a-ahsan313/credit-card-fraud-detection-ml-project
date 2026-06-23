@@ -137,6 +137,6 @@ Through this project I learned:
 
 # 👨‍💻 Author
 
-Ahsan Aftab
+Ahsan
 
 Computer Science Student | AI/ML Enthusiast
